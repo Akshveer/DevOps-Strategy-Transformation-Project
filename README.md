@@ -2,7 +2,7 @@
 A DevOps transformation strategy for AForge that is looking to improve its software delivery and operations processes.
 
 # To view the project
-https://akshveer.github.io/DevOps-Startegy-Transformation-Project/
+https://akshveer.github.io/DevOps-Strategy-Transformation-Project/
 
 # Project Overview
 
